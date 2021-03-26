@@ -47,6 +47,9 @@ main {
     width: 47%;
     margin-bottom: 140px;
 }
+a {
+    text-decoration: none;
+}
 .news img {
     width: 420px;
     height: 280px; 
